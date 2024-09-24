@@ -1,5 +1,6 @@
 # Game Boy Emulator
 
-[!NOTE] This is a work in progress.
+> [!NOTE]
+This is a work in progress.
 
 Game Boy Emulator.
